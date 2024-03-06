@@ -11,5 +11,3 @@ I'm an Electrical and Computer Engineer with a passion for Clinical Neuroscience
 ## 🎵 Hobbies
 - In my free time, I enjoy playing chess, practicing piano, reading books, exploring cinema, and indulging in various genres of music.
 
-  [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/maria-chondrou-39852827b/) [![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/MariaNefeli)
-
